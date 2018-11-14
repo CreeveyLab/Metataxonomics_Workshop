@@ -1,2 +1,0 @@
-#!/bin/bash
-cd-hit-otu-all.pl  -i subsample.seqs.ge400bp.nobarcode.fas -c 0.97 -o Cluster_results
