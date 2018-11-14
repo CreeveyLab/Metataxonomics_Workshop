@@ -1,0 +1,75 @@
+
+
+running command
+/home/biovm/bin/cd-hit-otu-step1-filter-trim.pl -i input_sequences.fas -o Cluster_results/fltd -f 0.8 -p 6 > Cluster_results/trim.log
+
+
+running command
+/home/biovm/bin/cdhit-dup/cd-hit-dup -i Cluster_results/fltd -o Cluster_results/fltd.dup -d 0 -m false -f true > Cluster_results/dup.log
+
+
+running command
+/home/biovm/bin/cd-hit-otu-simulation-pyro.pl 0.005 495 24 50 1
+
+=================================================================================================
+The probability for a read to have 0 error  is 0.0836421079023768
+The probability for a read to have 1 error  is 0.208054489505912
+The probability for a read to have 2 errors is 0.258238486974674
+The probability for a read to have 3 errors is 0.21325221788696
+Homoploymer sites: 24
+The observed size of the largest cluster is 50
+The estimated upper bound abundance for this tag is 598
+	(note! this abundance is different from the abundance of this species, which
+	may has several copies of this tag with or without variations) 
+
+Suggested cutoff value to remove small cluster is 3
+Representative sequences for large clusters will be used in next cluster run for OTU calculation
+At this cutoff, the tags with abundance <3 will be missed, 
+In addition,
+
+The probability for tags with abundance 36 is about 0.5
+
+=================================================================================================
+
+
+
+running command
+cat Cluster_results/fltd.dup.clstr Cluster_results/fltd.dup2.clstr | /home/biovm/bin/cd-hit/clstr_sort_by.pl > Cluster_results/fltd.dupall.clstr
+
+
+running command
+/home/biovm/bin/clstr_sort_trim_rep.pl Cluster_results/fltd.dupall.clstr Cluster_results/fltd 2 > Cluster_results/fltd.dupall-rep.fa
+
+
+running command
+/home/biovm/bin/cd-hit/cd-hit-est -i Cluster_results/fltd.dupall-rep.fa -o Cluster_results/fltd.dupall.nr2nd -c 0.996979797979798 -n 10 -l 11 -p 1 -d 0 -g 1 -b 3 > Cluster_results/fltd.dupall.nr2nd.log
+
+
+running command
+/home/biovm/bin/cd-hit/clstr_rev.pl Cluster_results/fltd.dupall.clstr Cluster_results/fltd.dupall.nr2nd.clstr | /home/biovm/bin/cd-hit/clstr_sort_by.pl > Cluster_results/fltd.dupall.nr2nd-all.clstr
+
+
+running command
+/home/biovm/bin/clstr_select_rep.pl size 4 999999999 < Cluster_results/fltd.dupall.nr2nd-all.clstr > Cluster_results/fltd.dupall-pri-rep.ids
+
+
+running command
+/home/biovm/bin/fetch_fasta_by_ids.pl Cluster_results/fltd.dupall-pri-rep.ids Cluster_results/fltd.dupall-rep.fa > Cluster_results/fltd.dupall-pri-rep.fa
+
+
+running command
+/home/biovm/bin/clstr_select_rep.pl size 1 999999999 < Cluster_results/fltd.dup2.clstr > Cluster_results/chimaric.ids
+
+
+running command
+/home/biovm/bin/fetch_fasta_exclude_ids.pl Cluster_results/chimaric.ids Cluster_results/fltd.dupall-pri-rep.fa > Cluster_results/fltd.dupall-pri-rep-good.fa
+
+
+running command
+/home/biovm/bin/cd-hit/cd-hit-est -i Cluster_results/fltd.dupall-pri-rep-good.fa -o Cluster_results/OTU -c 0.97 -n 8 -l 11 -p 1 -d 0 -g 1 -b 5 -G 0 -aS 0.8 > Cluster_results/OTU.log
+
+
+running command
+/home/biovm/bin/cd-hit/clstr_rev.pl Cluster_results/fltd.dupall.nr2nd-all.clstr Cluster_results/OTU.clstr > Cluster_results/OTU.nr2nd.clstr
+
+total cpu time 23.54

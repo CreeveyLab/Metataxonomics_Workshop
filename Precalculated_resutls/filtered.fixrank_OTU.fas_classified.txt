@@ -1,0 +1,172 @@
+#OTUID Domain Phylum Class Order Family Genus
+OTU1 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU2 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU3 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Pseudobutyrivibrio 
+OTU4 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU5 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Pseudobutyrivibrio 
+OTU6 Bacteria Proteobacteria Gammaproteobacteria Pseudomonadales Pseudomonadaceae Cellvibrio 
+OTU7 Bacteria Bacteroidetes Flavobacteriia Flavobacteriales Flavobacteriaceae Flavobacterium 
+OTU8 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU9 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU10 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU11 Bacteria Firmicutes Negativicutes Selenomonadales Veillonellaceae Selenomonas 
+OTU12 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU13 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU14 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU15 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU16 Bacteria Actinobacteria Actinobacteria Coriobacteriales Coriobacteriaceae 
+OTU17 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU18 Bacteria Bacteroidetes Flavobacteriia Flavobacteriales Flavobacteriaceae Moheibacter 
+OTU19 Bacteria Bacteroidetes Flavobacteriia Flavobacteriales Flavobacteriaceae Chryseobacterium 
+OTU20 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Pseudobutyrivibrio 
+OTU21 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU22 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU23 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU24 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Clostridium 
+OTU25 Bacteria Proteobacteria Alphaproteobacteria Caulobacterales Caulobacteraceae Brevundimonas 
+OTU26 Bacteria Fibrobacteres Fibrobacteria Fibrobacterales Fibrobacteraceae Fibrobacter 
+OTU27 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU28 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU29 Bacteria Firmicutes Clostridia Clostridiales Ruminococcaceae Ruminococcus 
+OTU30 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU31 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU32 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU33 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU34 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU35 Bacteria Firmicutes Clostridia Clostridiales 
+OTU36 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU37 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU38 Bacteria Firmicutes Bacilli Lactobacillales Streptococcaceae Streptococcus 
+OTU39 Bacteria Proteobacteria Gammaproteobacteria Xanthomonadales Xanthomonadaceae 
+OTU40 Bacteria Proteobacteria Gammaproteobacteria Aeromonadales Succinivibrionaceae Succinivibrio 
+OTU41 Bacteria Firmicutes Clostridia Clostridiales Ruminococcaceae Ruminococcus 
+OTU42 Bacteria Proteobacteria Betaproteobacteria Burkholderiales Comamonadaceae Comamonas 
+OTU43 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU44 Bacteria Proteobacteria Alphaproteobacteria Rhizobiales Rhizobiaceae Rhizobium 
+OTU45 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU46 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU47 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU48 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU49 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU50 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU51 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU52 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU53 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU54 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU55 Bacteria Proteobacteria Betaproteobacteria Burkholderiales Comamonadaceae Delftia 
+OTU56 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU57 Bacteria Firmicutes Negativicutes Selenomonadales Veillonellaceae Anaerovibrio 
+OTU58 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU59 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Lachnobacterium 
+OTU60 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU61 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU62 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU63 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU64 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU65 Bacteria Actinobacteria Actinobacteria Actinomycetales Nocardioidaceae Aeromicrobium 
+OTU66 Bacteria Bacteroidetes Bacteroidia Bacteroidales Porphyromonadaceae 
+OTU67 Bacteria Firmicutes Clostridia Clostridiales Ruminococcaceae Ruminococcus 
+OTU68 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Pseudobutyrivibrio 
+OTU69 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU70 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU71 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU72 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU73 Bacteria Proteobacteria Gammaproteobacteria Chromatiales Chromatiaceae Rheinheimera 
+OTU74 Bacteria Proteobacteria Gammaproteobacteria Pseudomonadales Pseudomonadaceae Pseudomonas 
+OTU75 Bacteria Bacteroidetes Flavobacteriia Flavobacteriales Flavobacteriaceae Chryseobacterium 
+OTU76 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU77 Bacteria Firmicutes Negativicutes Selenomonadales Veillonellaceae Selenomonas 
+OTU78 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU79 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU80 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU81 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU82 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU83 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU84 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae 
+OTU85 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU86 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU87 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU88 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU89 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU90 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU91 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU92 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU93 Bacteria Actinobacteria Actinobacteria Actinomycetales Microbacteriaceae 
+OTU94 Bacteria Actinobacteria Actinobacteria Coriobacteriales Coriobacteriaceae Olsenella 
+OTU95 Bacteria Firmicutes Clostridia Clostridiales 
+OTU96 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU97 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU98 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU99 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU100 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU101 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU102 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU103 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae 
+OTU104 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU105 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU106 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU107 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU108 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU109 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU110 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU111 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU112 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU113 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU114 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Lachnospiracea_incertae_sedis 
+OTU115 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU116 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU117 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU118 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU119 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU120 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU121 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU122 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Pseudobutyrivibrio 
+OTU123 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU124 Bacteria Firmicutes Clostridia Clostridiales Clostridiales_Incertae 
+OTU125 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU126 Bacteria Proteobacteria Betaproteobacteria Burkholderiales Oxalobacteraceae Herbaspirillum 
+OTU127 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU128 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU129 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU130 Bacteria Proteobacteria Betaproteobacteria Burkholderiales Comamonadaceae Acidovorax 
+OTU131 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU132 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Lachnospiracea_incertae_sedis 
+OTU133 Bacteria Bacteroidetes Bacteroidia Bacteroidales Porphyromonadaceae 
+OTU134 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU135 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU136 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU137 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU138 Bacteria Proteobacteria 
+OTU139 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU140 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU141 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU142 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU143 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU144 Bacteria Proteobacteria Gammaproteobacteria Pseudomonadales Moraxellaceae Acinetobacter 
+OTU145 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU146 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU147 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU148 Bacteria Proteobacteria Betaproteobacteria Burkholderiales Sutterellaceae 
+OTU149 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Clostridium 
+OTU150 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Lachnobacterium 
+OTU151 Bacteria Firmicutes Clostridia Clostridiales Ruminococcaceae Ruminococcus 
+OTU152 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae 
+OTU153 Bacteria Firmicutes Clostridia Clostridiales 
+OTU154 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU155 Bacteria Bacteroidetes Sphingobacteriia Sphingobacteriales Sphingobacteriaceae Sphingobacterium 
+OTU156 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU157 Bacteria Firmicutes Negativicutes Selenomonadales Veillonellaceae Selenomonas 
+OTU158 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU159 Bacteria Verrucomicrobia Subdivision5 Subdivision5_genera_incertae_sedis Subdivision5_genera_incertae_sedis Subdivision5_genera_incertae_sedis 
+OTU160 Bacteria Bacteroidetes Bacteroidia Bacteroidales 
+OTU161 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU162 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Pseudobutyrivibrio 
+OTU163 Bacteria Spirochaetes Spirochaetia Spirochaetales Spirochaetaceae Treponema 
+OTU164 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU165 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU166 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU167 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU168 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae Butyrivibrio 
+OTU169 Bacteria Bacteroidetes Bacteroidia Bacteroidales Prevotellaceae Prevotella 
+OTU170 Bacteria Firmicutes Clostridia Clostridiales Lachnospiraceae 
+OTU171 Bacteria Bacteroidetes Bacteroidia Bacteroidales 

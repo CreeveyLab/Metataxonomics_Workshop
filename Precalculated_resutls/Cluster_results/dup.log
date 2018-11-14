@@ -1,0 +1,18 @@
+Total number of sequences: 15007
+Longest: 514
+Shortest: 411
+Sorted by length ...
+Start clustering duplicated sequences ...
+Number of clusters found: 6882
+Searching for chimeric clusters ...
+Checked      1000 clusters, detected        78 chimeric clusters
+Checked      2000 clusters, detected       203 chimeric clusters
+Checked      3000 clusters, detected       350 chimeric clusters
+Checked      4000 clusters, detected       498 chimeric clusters
+Checked      5000 clusters, detected       628 chimeric clusters
+Checked      6000 clusters, detected       800 chimeric clusters
+Number of chimeric clusters found: 912
+Number of clusters with abundance above the cutoff (=2): 6007
+Number of clusters with abundance below the cutoff (=2): 1
+Writing clusters to files ...
+Done!

@@ -1,0 +1,39 @@
+================================================================
+Program: CD-HIT, V4.5.4, Nov 09 2018, 22:32:25
+Command: /home/biovm/bin/cd-hit/cd-hit-est -i
+         Cluster_results/fltd.dupall-pri-rep-good.fa -o
+         Cluster_results/OTU -c 0.97 -n 8 -l 11 -p 1 -d 0 -g 1
+         -b 5 -G 0 -aS 0.8
+
+Started: Tue Nov 13 16:37:50 2018
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 313
+longest and shortest : 495 and 411
+Total letters: 139527
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 1 X 12M = 12M
+Table           : 1 X 1M = 1M
+Miscellaneous   : 0M
+Total           : 13M
+
+Table limit with the given memory limit:
+Max number of representatives: 4194304
+Max number of word counting entries: 98301097
+
+comparing sequences from          0  to        313
+
+      313  finished        165  clusters
+
+Apprixmated maximum memory consumption: 14M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0
+
+total cpu time 23.54

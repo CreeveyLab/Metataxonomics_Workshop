@@ -1,0 +1,21 @@
+
+=================================================================================================
+The probability for a read to have 0 error  is 0.0836421079023768
+The probability for a read to have 1 error  is 0.208054489505912
+The probability for a read to have 2 errors is 0.258238486974674
+The probability for a read to have 3 errors is 0.21325221788696
+Homoploymer sites: 24
+The observed size of the largest cluster is 50
+The estimated upper bound abundance for this tag is 598
+	(note! this abundance is different from the abundance of this species, which
+	may has several copies of this tag with or without variations) 
+
+Suggested cutoff value to remove small cluster is 3
+Representative sequences for large clusters will be used in next cluster run for OTU calculation
+At this cutoff, the tags with abundance <3 will be missed, 
+In addition,
+
+The probability for tags with abundance 36 is about 0.5
+
+=================================================================================================
+
